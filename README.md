@@ -1,11 +1,16 @@
-##                                                          👋 Hi, I'm Vindhya Akula
-
-Computer Science & Engineering Graduate | Python Developer | AI & Data Analytics Enthusiast
-
-💡 Passionate about building practical applications, exploring AI technologies, and continuously learning new skills.
+Vindhya-Akula
 ---
 
-🚀 Currently Learning
+<h1 align="center">👋 Hi, I'm Vindhya Akula</h1>
+
+<h3 align="center">💻 Computer Science Graduate | Python Developer | AI & Data Analytics Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%26+Data+Analytics+Enthusiast;Always+Learning+%7C+Always+Building" />
+</p>
+---
+
+## 🚀 Currently Learning
 
 - Generative AI and Large Language Models (LLMs)
 - Python and Advanced SQL
@@ -13,11 +18,9 @@ Computer Science & Engineering Graduate | Python Developer | AI & Data Analytics
 - Data Analytics and Problem Solving
 
 ---
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a 2026 Computer Science and Engineering graduate specializing in Artificial Intelligence, with an interest in Python development, Data Analytics, Salesforce, and Artificial Intelligence.
-
----
 
 - 🎓 B.Tech in CSE (Artificial Intelligence)
 - 📊 CGPA: 7.85/10
@@ -27,20 +30,20 @@ I'm a 2026 Computer Science and Engineering graduate specializing in Artificial 
   
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 - Programming Languages: Python, SQL, Java
 - Web Technologies: HTML, CSS, JavaScript
 - AI & Data Analytics: Machine Learning, TensorFlow, Keras, Pandas, NumPy, Power BI
-- Databases: MySQL, SQLite
-- Frameworks & Tools: FastAPI, Streamlit, Flask, Git, GitHub, Salesforce
-- Cloud & Other Skills: AWS Fundamentals, Power Query, DAX, Excel
+- ** Databases: MySQL, SQLite
+- ** Frameworks & Tools: FastAPI, Streamlit, Flask, Git, GitHub, Salesforce
+- ** Cloud & Other Skills: AWS Fundamentals, Power Query, DAX, Excel
 
 ---
 
-💼 Experience
+## 💼 Experience
 
-Salesforce Developer Intern - SmartBridge Educational Services Pvt.Ltd.
+### Salesforce Developer Intern - SmartBridge Educational Services Pvt.Ltd.
 
 📍 Location: Hyderabad (Remote)
 📅 May 2025 – July 2025
@@ -48,7 +51,7 @@ Salesforce Developer Intern - SmartBridge Educational Services Pvt.Ltd.
 - Worked with Salesforce CRM features, including object configuration and customer record management.
 - Practiced data validation, testing, and Salesforce application development through hands-on tasks.
 
-Assistant Software Developer Intern - Amaravati Software Innovations
+### Assistant Software Developer Intern - Amaravati Software Innovations
 
 📍 Location: Rajahmundry
 📅 May 2024 – August 2024
@@ -58,23 +61,26 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-1. YouTube Knowledge Extractor (Python, OOP, Gemini AI, SQLite, Streamlit)
+### 🔹 YouTube Knowledge Extractor
+**Tech Stack:** Python | Gemini AI | SQLite | Streamlit
 
-- Build an AI-powered application to extract, process, and organize knowledge from YouTube videos
+- Built an AI-powered application to extract, process, and organize knowledge from YouTube videos.
 
-2. MNIST Handwritten Digit Recognition (Python, TensorFlow, Keras, CNN, Matplotlib)
+### 🔹 MNIST Handwritten Digit Recognition
+**Tech Stack:** Python | TensorFlow | Keras | CNN
 
-- Developed a CNN model to orcognize handwritten digits, achieving approximately 99% test accuracy
+- Developed a CNN model to recognize handwritten digits, achieving approximately 99% test accuracy.
 
-3. Garage Management System (Salesforce CRM, Apex, Custom Objects, Reports, Flows, Dashboards)
+### 🔹 Garage Management System
+**Tech Stack:** Salesforce | Apex | Flows | Reports | Dashboards
 
 - Developed a Salesforce-based garage management solution to manage vehicle servicing and customer records.
 
 ---
 
-🏆 Achievements
+## 🏆 Achievements
 
 - Achieved approximately 99% test accuracy in the MNIST Digit Recognition project.
 - Earned multiple Salesforce certifications.
@@ -82,7 +88,7 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 ---
 
-📜 Certifications
+## 📜 Certifications
 
 - HackerRank SQL Advanced Certification
 - Salesforce AI Associate
@@ -94,7 +100,7 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vindhya-akula&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -105,7 +111,7 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 ---
 
-📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <a href="https://github.com/vindhya-akula">
@@ -114,7 +120,7 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 </p>
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vindhya-akula/">
@@ -130,7 +136,7 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 ---
 
-⭐ Featured Repositories
+## ⭐ Featured Repositories
 
 <p align="center">
   <a href="https://github.com/vindhya-akula">
@@ -143,6 +149,6 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 ---
 
-✨ "Learning, Building, and Growing Every Day!"
+#✨ "Learning, Building, and Growing Every Day!"
 
 Thanks for visiting my profile! 😊
