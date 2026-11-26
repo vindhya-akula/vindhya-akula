@@ -1,9 +1,8 @@
-👋 Hi, I'm Vindhya Akula
+##                                                          👋 Hi, I'm Vindhya Akula
 
 Computer Science & Engineering Graduate | Python Developer | AI & Data Analytics Enthusiast
 
 💡 Passionate about building practical applications, exploring AI technologies, and continuously learning new skills.
-
 ---
 
 🚀 Currently Learning
@@ -13,28 +12,28 @@ Computer Science & Engineering Graduate | Python Developer | AI & Data Analytics
 - AI-powered application development
 - Data Analytics and Problem Solving
 
+---
 👩‍💻 About Me
 
 I'm a 2026 Computer Science and Engineering graduate specializing in Artificial Intelligence, with an interest in Python development, Data Analytics, Salesforce, and Artificial Intelligence.
+
+---
 
 - 🎓 B.Tech in CSE (Artificial Intelligence)
 - 📊 CGPA: 7.85/10
 - 💻 Interested in Python, SQL, AI, and software development
 - 🌱 Always eager to learn and explore new technologies
 - 🎯 Looking forward to contributing to real-world projects and growing as a developer.
+  
+---
 
 🛠️ Technical Skills
 
 - Programming Languages: Python, SQL, Java
-
 - Web Technologies: HTML, CSS, JavaScript
-
 - AI & Data Analytics: Machine Learning, TensorFlow, Keras, Pandas, NumPy, Power BI
-
 - Databases: MySQL, SQLite
-
 - Frameworks & Tools: FastAPI, Streamlit, Flask, Git, GitHub, Salesforce
-
 - Cloud & Other Skills: AWS Fundamentals, Power Query, DAX, Excel
 
 ---
@@ -63,18 +62,15 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 1. YouTube Knowledge Extractor (Python, OOP, Gemini AI, SQLite, Streamlit)
 
-- Developed an application to extract and process knowledge from YouTube content using AI.
-- Integrated Gemini AI and SQLite to support intelligent content processing and information storage.
+- Build an AI-powered application to extract, process, and organize knowledge from YouTube videos
 
 2. MNIST Handwritten Digit Recognition (Python, TensorFlow, Keras, CNN, Matplotlib)
 
-- Developed a Convolutional Neural Network (CNN) to recognize handwritten digits using the MNIST dataset.
-- Achieved approximately 99% test accuracy through model training and evaluation.
+- Developed a CNN model to orcognize handwritten digits, achieving approximately 99% test accuracy
 
-3. Garage Management System (Salesforce CRM, Custom Objects, Reports, Dashboards)
+3. Garage Management System (Salesforce CRM, Apex, Custom Objects, Reports, Flows, Dashboards)
 
-- Developed a Salesforce-based garage management solution to manage vehicle and customer service records.
-- Used Salesforce objects, reports, and dashboards to organize and track garage operations.
+- Developed a Salesforce-based garage management solution to manage vehicle servicing and customer records.
 
 ---
 
@@ -100,35 +96,50 @@ Assistant Software Developer Intern - Amaravati Software Innovations
 
 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=vindhya-akula&show_icons=true&theme=tokyonight&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=vindhya-akula&layout=compact&theme=tokyonight&hide_border=true)
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=vindhya-akula&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vindhya-akula&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindhya-akula&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=vindhya-akula&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 📈 Contribution Graph
 
-""Contribution Graph" (https://github-readme-activity-graph.vercel.app/graph?username=vindhya-akula&theme=tokyo-night&hide_border=true)" (https://github.com/vindhya-akula)
+<p align="center">
+  <a href="https://github.com/vindhya-akula">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vindhya-akula&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  </a>
+</p>
+---
+
+🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vindhya-akula/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vindhya-akula">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:vindhyaakulaists22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-🌐 Let's Connect
+⭐ Featured Repositories
 
-💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/vindhya-akula/)
-
-🐙 GitHub: "Explore my repositories" (https://github.com/vindhya-akula)
-
-📧 Email: vindhyaakulaists22@gmail.com
-
----
-
-⭐ Popular Repositories
-
-Check out my projects and repositories:
-
-""GitHub Repositories" (https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github)" (https://github.com/vindhya-akula?tab=repositories)
+<p align="center">
+  <a href="https://github.com/vindhya-akula">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vindhya-akula&repo=MNIST-Digit-Recognition&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/vindhya-akula">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vindhya-akula&repo=Garage-Management-System&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
