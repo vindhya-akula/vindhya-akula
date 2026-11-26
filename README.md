@@ -25,37 +25,23 @@ I'm a 2026 Computer Science and Engineering graduate specializing in Artificial 
 
 🛠️ Technical Skills
 
-Programming Languages
+- Programming Languages: Python, SQL, Java
 
-- Python, SQL, Java
+- Web Technologies: HTML, CSS, JavaScript
 
-Web Technologies
+- AI & Data Analytics: Machine Learning, TensorFlow, Keras, Pandas, NumPy, Power BI
 
-- HTML, CSS, JavaScript
+- Databases: MySQL, SQLite
 
-AI & Data Analytics
+- Frameworks & Tools: FastAPI, Streamlit, Flask, Git, GitHub, Salesforce
 
-- Machine Learning, TensorFlow, Keras, Pandas, NumPy, Power BI
-
-Databases
-
-- MySQL, SQLite
-
-Frameworks & Tools
-
-- FastAPI, Streamlit, Flask, Git, GitHub, Salesforce
-
-Cloud & Other Skills
-
-- AWS Fundamentals, Power Query, DAX, Excel
+- Cloud & Other Skills: AWS Fundamentals, Power Query, DAX, Excel
 
 ---
 
 💼 Experience
 
-Salesforce Developer Intern
-
-SmartBridge Educational Services
+Salesforce Developer Intern - SmartBridge Educational Services Pvt.Ltd.
 
 📍 Location: Hyderabad (Remote)
 📅 May 2025 – July 2025
@@ -63,9 +49,7 @@ SmartBridge Educational Services
 - Worked with Salesforce CRM features, including object configuration and customer record management.
 - Practiced data validation, testing, and Salesforce application development through hands-on tasks.
 
-Assistant Software Developer Intern
-
-Amaravati Software Innovations
+Assistant Software Developer Intern - Amaravati Software Innovations
 
 📍 Location: Rajahmundry
 📅 May 2024 – August 2024
@@ -77,23 +61,17 @@ Amaravati Software Innovations
 
 🚀 Featured Projects
 
-1. YouTube Knowledge Extractor
-
-Tech Stack: Python | OOP | Gemini AI | SQLite | Streamlit
+1. YouTube Knowledge Extractor (Python, OOP, Gemini AI, SQLite, Streamlit)
 
 - Developed an application to extract and process knowledge from YouTube content using AI.
 - Integrated Gemini AI and SQLite to support intelligent content processing and information storage.
 
-2. MNIST Handwritten Digit Recognition
-
-Tech Stack: Python | TensorFlow | Keras | CNN | Matplotlib
+2. MNIST Handwritten Digit Recognition (Python, TensorFlow, Keras, CNN, Matplotlib)
 
 - Developed a Convolutional Neural Network (CNN) to recognize handwritten digits using the MNIST dataset.
 - Achieved approximately 99% test accuracy through model training and evaluation.
 
-3. Garage Management System
-
-Tech Stack: Salesforce CRM | Custom Objects | Reports | Dashboards
+3. Garage Management System (Salesforce CRM, Custom Objects, Reports, Dashboards)
 
 - Developed a Salesforce-based garage management solution to manage vehicle and customer service records.
 - Used Salesforce objects, reports, and dashboards to organize and track garage operations.
